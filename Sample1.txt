@@ -1,4 +1,9 @@
 class Add{
      // some logic goes here
      public void show(){}
+
+    public int isPrime(int n){
+
+  }
 }
+
