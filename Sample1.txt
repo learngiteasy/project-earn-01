@@ -1,3 +1,4 @@
 class Add{
      // some logic goes here
+     public void show(){}
 }
